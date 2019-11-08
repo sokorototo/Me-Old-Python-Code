@@ -1,5 +1,2 @@
-# afro-ke
-A place from the web burst out in full glory
-
-+++++++++
+#python nothing but python
 the above are practise files in python
